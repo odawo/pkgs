@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Emmet",
+		"Emoji",
+		"GhostText",
+		"Git",
+		"GitGutter",
+		"jQuery",
+		"Mongoose CoffeeScript",
+		"Package Control",
+		"SCSS",
+		"SCSS Compiler",
+		"SCSS Snippets Complete",
+		"sublime-github",
+		"sublimelint",
+		"SublimeLinter-contrib-sublime-syntax",
+		"Terminal",
+		"View In Browser",
+		"Vuejs Snippets"
+	]
+}
